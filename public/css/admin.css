@@ -1,0 +1,49 @@
+
+header {
+    text-align: right;
+    border: solid 3px #000000;
+}
+ 
+.center {
+    text-align: center;
+    top: 20px;
+    border: solid 3px #000000;
+    
+}
+
+.search {
+    display: inline-block;
+    margin:0 auto;
+    border: solid 3px #000000;
+}
+
+p img {
+    position: absolute;
+    left: 30px;
+    top: 30px;
+    border: solid 3px #000000;
+}
+
+
+p a {
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    border: solid 3px #000000;
+}
+ 
+nav ul li {
+    display: inline-block;
+    margin-right: 25px;
+    border: solid 3px #000000;
+}
+
+.side_container {
+  width:300px;
+  height:200px;
+  margin-top:30px;
+  text-align:center;
+　float:left;
+  flex-direction: column;
+  border: solid 3px #000000;
+}
